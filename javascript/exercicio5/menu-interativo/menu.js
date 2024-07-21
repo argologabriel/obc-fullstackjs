@@ -12,7 +12,7 @@ do {
     switch (opcao) {
       case "1":
         alert("Você escolheu a Sushi.");
-        break;
+        break
       case "2":
         alert("Você escolheu a opção Pizza.");
         break
